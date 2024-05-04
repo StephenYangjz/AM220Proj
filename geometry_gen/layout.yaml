@@ -1,0 +1,40 @@
+objects:
+
+- filename: assets/office_table.glb
+  key: 0
+  name: office_table
+  position:
+  - -0.5
+  - 1
+  size: 1.4
+- filename: assets/designer_chair.glb
+  key: 1
+  name: designer_chair
+  position:
+  - -0.5
+  - 0.5
+  size: 1
+- filename: assets/nightstand.glb
+  key: 2
+  name: nightstand
+  position:
+  - 0.8
+  - 1
+  - 0
+  size: 0.5
+- filename: assets/bed.glb
+  key: 3
+  name: bed
+  position:
+  - -0.6
+  - -0.1
+  - 0
+  size: 0.005
+- filename: assets/closet.glb
+  key: 4
+  name: closet
+  position:
+  - -0.9
+  - -1.1
+  - 0
+  size: 0.8
